@@ -1,4 +1,9 @@
-### Hi there 👋
+### Sup fellow hackers, my name is Matt 👋
+
+I am a former NASA and current DAT solutions as a Full Stack Software Engineer. Throughout my career, I have been tasked with focusing on data driven applications where numbers are crunched in all sorts of fun ways.
+
+
+*This profile is a WIP*
 
 <!--
 **Toltar/Toltar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
